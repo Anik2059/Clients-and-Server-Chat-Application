@@ -110,12 +110,30 @@ Client won’t join? Make sure the server’s running. Check you’re using 127.
 No ding sound? Check if Pygame’s installed and notify.wav is in the client’s folder.
 Getting errors? The program shows pop-ups if something’s wrong, like a bad connection. Check the pop-up for clues.
 
-Ideas to make it cooler
+Ideas to Make It Cooler
 
 Let people send pics or files.
 Make it work over the internet, not just my computer.
 Add a password so only friends can join.
 Save the chat so you can read it later.
 
-Thanks for checking out my chat program! Try it out and tell me what you think. It’s been a blast making this!
+### Contributors
+
+# Md. Hasibul Islam Anik
+# Avijit Datta Gupta
+
+### License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the LICENSE file for details.
+Acknowledgments
+
+This project was developed as part of the CSE-312 course at Green University of Bangladesh. References and resources used are cited in the project report.
+
+# Contact
+
+For questions, contact hk274783@gmail.com or open an issue in this repository.
+
+Thanks for Checking Out My Chat Program!
+
+Try it out and tell me what you think. It’s been a blast making this! 🚀
 
